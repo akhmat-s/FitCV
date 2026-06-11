@@ -1,0 +1,9 @@
+# Dev/test dependencies — the verification gate (pytest + ruff).
+# Install with: pip install -r requirements-dev.txt
+-r requirements.txt
+
+pytest>=7.0
+ruff>=0.4.0
+# httpx is imported directly by the test suite (constructs httpx.Request/Response for
+# provider-error fixtures); pin it explicitly rather than relying on openai's transitive dep.
+httpx>=0.27.0

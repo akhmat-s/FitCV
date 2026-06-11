@@ -1,0 +1,32 @@
+AI Quality Assurance Engineer (AI/ML QA, SDET)
+
+About the role
+We are looking for an AI Quality Assurance Engineer to own the quality of our
+machine-learning powered products. You will design and build automated test
+frameworks, evaluate LLM-based features, and embed quality gates across the SDLC.
+You will work closely with data scientists, ML engineers, and product teams to
+ship reliable, well-tested AI systems.
+
+Responsibilities
+- Design, develop, and maintain automated test suites using Python and Pytest.
+- Build end-to-end and API test automation with Selenium, Playwright, and Postman.
+- Create evaluation harnesses for LLM features: prompt regression, hallucination
+  detection, and output-quality scoring.
+- Integrate automated tests into CI/CD pipelines (GitHub Actions, Jenkins, Docker).
+- Define and track quality metrics, test coverage, and release readiness.
+- Perform performance and load testing with JMeter or Locust.
+- Triage defects, write clear bug reports in Jira, and drive root-cause analysis.
+
+Required qualifications
+- 4+ years of experience in software quality assurance or SDET roles.
+- Strong programming skills in Python; familiarity with SQL.
+- Hands-on experience with test automation frameworks (Pytest, Selenium, Playwright).
+- Experience testing REST APIs and microservices.
+- Solid understanding of CI/CD, Git, and containerization with Docker.
+- Experience evaluating or testing machine-learning or LLM-based systems.
+
+Nice to have
+- Experience with cloud platforms (AWS or GCP).
+- Familiarity with MLOps tools and model monitoring.
+- Knowledge of Kubernetes and observability tooling (Grafana, Prometheus).
+- ISTQB certification.
